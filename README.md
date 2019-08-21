@@ -1,3 +1,6 @@
+Business ready GraphQl client for immidiate graphQL api implementation.
+the Goal of this Repo fork is actually to make the GraphQl boilerplate an istant prod ready nodejs gql resolver to have a standard way of deploying a server implementation.
+
 <h1 align="center"><strong>GraphQL Server Boilerplates for Node.js</strong></h1>
 
 <br />
